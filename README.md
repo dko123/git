@@ -19,3 +19,9 @@ o texto del mismo.
 
 Recuerden que para la explicación completa de este curso se pueden dirigir a
 [codehero.co](http://codehero.co) o directamente a [codehero.co/series/git-desde-cero](http://codehero.co/series/git-desde-cero/)
+
+
+# Agregamos el siguiente texto.
+Este repositorio conserva absolutamente todo el historial del curso.
+Se encuentra clasificado por capítulos almacenados en etiquetas (tags), para
+poder observar estos cambios debes revisar el log.
